@@ -39,7 +39,6 @@ const Footer = () => {
                     <span className="icon">
                         <FaTwitter />
                     </span>
-                    
                     <span className="icon">
                         <FaLinkedin />
                     </span>
